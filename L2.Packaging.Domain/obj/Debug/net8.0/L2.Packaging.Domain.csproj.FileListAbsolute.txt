@@ -1,0 +1,12 @@
+C:\Users\Cassiano.local\Desktop\personal-repository\L2\L2.Packaging\L2.Packaging.Domain\bin\Debug\net8.0\L2.Packaging.Domain.deps.json
+C:\Users\Cassiano.local\Desktop\personal-repository\L2\L2.Packaging\L2.Packaging.Domain\bin\Debug\net8.0\L2.Packaging.Domain.dll
+C:\Users\Cassiano.local\Desktop\personal-repository\L2\L2.Packaging\L2.Packaging.Domain\bin\Debug\net8.0\L2.Packaging.Domain.pdb
+C:\Users\Cassiano.local\Desktop\personal-repository\L2\L2.Packaging\L2.Packaging.Domain\obj\Debug\net8.0\L2.Packaging.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cassiano.local\Desktop\personal-repository\L2\L2.Packaging\L2.Packaging.Domain\obj\Debug\net8.0\L2.Packaging.Domain.AssemblyInfoInputs.cache
+C:\Users\Cassiano.local\Desktop\personal-repository\L2\L2.Packaging\L2.Packaging.Domain\obj\Debug\net8.0\L2.Packaging.Domain.AssemblyInfo.cs
+C:\Users\Cassiano.local\Desktop\personal-repository\L2\L2.Packaging\L2.Packaging.Domain\obj\Debug\net8.0\L2.Packaging.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Cassiano.local\Desktop\personal-repository\L2\L2.Packaging\L2.Packaging.Domain\obj\Debug\net8.0\L2.Packaging.Domain.sourcelink.json
+C:\Users\Cassiano.local\Desktop\personal-repository\L2\L2.Packaging\L2.Packaging.Domain\obj\Debug\net8.0\L2.Packaging.Domain.dll
+C:\Users\Cassiano.local\Desktop\personal-repository\L2\L2.Packaging\L2.Packaging.Domain\obj\Debug\net8.0\refint\L2.Packaging.Domain.dll
+C:\Users\Cassiano.local\Desktop\personal-repository\L2\L2.Packaging\L2.Packaging.Domain\obj\Debug\net8.0\L2.Packaging.Domain.pdb
+C:\Users\Cassiano.local\Desktop\personal-repository\L2\L2.Packaging\L2.Packaging.Domain\obj\Debug\net8.0\ref\L2.Packaging.Domain.dll

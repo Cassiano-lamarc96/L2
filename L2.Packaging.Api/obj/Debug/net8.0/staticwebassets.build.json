@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dvOPrqINpIqaLr9/f/lgBV70b8RqXIVNGHYtcR13Zzo=",
+  "Source": "L2.Packaging.Api",
+  "BasePath": "_content/L2.Packaging.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

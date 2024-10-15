@@ -1,0 +1,6 @@
+@L2.Packaging.Api_HostAddress = http://localhost:5195
+
+GET {{L2.Packaging.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

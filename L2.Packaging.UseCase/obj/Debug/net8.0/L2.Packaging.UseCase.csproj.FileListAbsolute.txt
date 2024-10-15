@@ -1,0 +1,16 @@
+C:\Users\Cassiano.local\Desktop\personal-repository\L2\L2.Packaging\L2.Packaging.UseCase\obj\Debug\net8.0\L2.Packaging.UseCase.csproj.AssemblyReference.cache
+C:\Users\Cassiano.local\Desktop\personal-repository\L2\L2.Packaging\L2.Packaging.UseCase\obj\Debug\net8.0\L2.Packaging.UseCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cassiano.local\Desktop\personal-repository\L2\L2.Packaging\L2.Packaging.UseCase\obj\Debug\net8.0\L2.Packaging.UseCase.AssemblyInfoInputs.cache
+C:\Users\Cassiano.local\Desktop\personal-repository\L2\L2.Packaging\L2.Packaging.UseCase\obj\Debug\net8.0\L2.Packaging.UseCase.AssemblyInfo.cs
+C:\Users\Cassiano.local\Desktop\personal-repository\L2\L2.Packaging\L2.Packaging.UseCase\obj\Debug\net8.0\L2.Packaging.UseCase.csproj.CoreCompileInputs.cache
+C:\Users\Cassiano.local\Desktop\personal-repository\L2\L2.Packaging\L2.Packaging.UseCase\obj\Debug\net8.0\L2.Packaging.UseCase.sourcelink.json
+C:\Users\Cassiano.local\Desktop\personal-repository\L2\L2.Packaging\L2.Packaging.UseCase\bin\Debug\net8.0\L2.Packaging.UseCase.deps.json
+C:\Users\Cassiano.local\Desktop\personal-repository\L2\L2.Packaging\L2.Packaging.UseCase\bin\Debug\net8.0\L2.Packaging.UseCase.dll
+C:\Users\Cassiano.local\Desktop\personal-repository\L2\L2.Packaging\L2.Packaging.UseCase\bin\Debug\net8.0\L2.Packaging.UseCase.pdb
+C:\Users\Cassiano.local\Desktop\personal-repository\L2\L2.Packaging\L2.Packaging.UseCase\bin\Debug\net8.0\L2.Packaging.Domain.dll
+C:\Users\Cassiano.local\Desktop\personal-repository\L2\L2.Packaging\L2.Packaging.UseCase\bin\Debug\net8.0\L2.Packaging.Domain.pdb
+C:\Users\Cassiano.local\Desktop\personal-repository\L2\L2.Packaging\L2.Packaging.UseCase\obj\Debug\net8.0\L2.Packa.4175ED74.Up2Date
+C:\Users\Cassiano.local\Desktop\personal-repository\L2\L2.Packaging\L2.Packaging.UseCase\obj\Debug\net8.0\L2.Packaging.UseCase.dll
+C:\Users\Cassiano.local\Desktop\personal-repository\L2\L2.Packaging\L2.Packaging.UseCase\obj\Debug\net8.0\refint\L2.Packaging.UseCase.dll
+C:\Users\Cassiano.local\Desktop\personal-repository\L2\L2.Packaging\L2.Packaging.UseCase\obj\Debug\net8.0\L2.Packaging.UseCase.pdb
+C:\Users\Cassiano.local\Desktop\personal-repository\L2\L2.Packaging\L2.Packaging.UseCase\obj\Debug\net8.0\ref\L2.Packaging.UseCase.dll
