@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("L2.Packaging.UseCase")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a69469b9c93ad1d587212fc3a4ac3a12fcaeaa7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72c2953f1505d5c3111f09672307b6e60124a241")]
 [assembly: System.Reflection.AssemblyProductAttribute("L2.Packaging.UseCase")]
 [assembly: System.Reflection.AssemblyTitleAttribute("L2.Packaging.UseCase")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

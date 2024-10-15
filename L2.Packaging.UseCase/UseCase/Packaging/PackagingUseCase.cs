@@ -29,33 +29,36 @@ public class PackagingUseCase : IPackagingUseCase
             {
                 if (SameBox != null)
                 {
-                    var sameBoxWithValidVolume = SameBox.Where(x => x.GetVolume() <= product.GetVolume()).ToList();
+                    var sameBoxWithValidVolume = SameBox.Where(x => x.GetVolume() >= product.GetVolume()).ToList();
                     if (sameBoxWithValidVolume != null && sameBoxWithValidVolume.Count > 0)
                     {
-                        var sameBoxThatFitsInTheBox = sameBoxWithValidVolume.Where(x => x.FitsInTheBox(product.height, product.width, product.length));
-                        if (sameBoxWithValidVolume != null && sameBoxWithValidVolume.Count > 0)
+                        var sameBoxThatFitsInTheBox = sameBoxWithValidVolume.Where(x => x.FitsInTheBox(product.height, product.width, product.length)).ToList();
+                        if (sameBoxThatFitsInTheBox != null && sameBoxThatFitsInTheBox.Count > 0)
                         {
                             var choosenSameBox = sameBoxThatFitsInTheBox.OrderBy(x => x.GetNewVolume(product.height, product.width, product.length)).FirstOrDefault();
                             SameBox = choosenSameBox.GetNewVolume(product.height, product.width, product.length) > 0 && order.products.LastOrDefault() != product ?
                                 choosenSameBox.GetRemainingSpaces(product.height, product.width, product.length) : null!;
 
                             validProducts.Add(new Product(product.name, product.height, product.width, product.length));
+                            if (SameBox == null)
+                                response.Boxes.Add(new Box(ChoosenBoxName, validProducts));
+
                             continue;
                         }
                     }
                 }
 
-                var boxesWithValidVolume = _dbBoxes.Where(x => x.GetVolume() <= product.GetVolume()).ToList();
+                var boxesWithValidVolume = _dbBoxes.Where(x => x.GetVolume() >= product.GetVolume()).ToList();
                 if (boxesWithValidVolume == null || boxesWithValidVolume.Count == 0)
                 {
-                    productsOusideBox.Add(new Product(product.name));
+                    productsOusideBox.Add(new Product(product.name, product.height, product.width, product.length));
                     continue;
                 }
 
-                var boxesThatFitsInTheBox = boxesWithValidVolume.Where(x => x.FitsInTheBox(product.height, product.width, product.length));
-                if (boxesThatFitsInTheBox == null || boxesWithValidVolume.Count == 0)
+                var boxesThatFitsInTheBox = boxesWithValidVolume.Where(x => x.FitsInTheBox(product.height, product.width, product.length)).ToList();
+                if (boxesThatFitsInTheBox == null || boxesThatFitsInTheBox.Count == 0)
                 {
-                    productsOusideBox.Add(new Product(product.name));
+                    productsOusideBox.Add(new Product(product.name, product.height, product.width, product.length));
                     continue;
                 }
 
@@ -66,27 +69,16 @@ public class PackagingUseCase : IPackagingUseCase
                 ChoosenBoxName = choosenBox.Name;
 
                 validProducts.Add(new Product(product.name, product.height, product.width, product.length));
+                if (SameBox == null)
+                    response.Boxes.Add(new Box(ChoosenBoxName, validProducts));
             }
 
             response.OrderId = order.orderId;
-            response.Boxes.Add(new Box(ChoosenBoxName, validProducts));
             response.ProductsOutsideBox = productsOusideBox;
 
             orderPackagingResponses.Add(response);
         }
 
         return orderPackagingResponses;
-    }
-
-    public enum TypeBoxChoosen
-    {
-        none,
-        allowed,
-        same
-    }
-
-    public TypeBoxChoosen ChooseBox()
-    {
-
     }
 }
