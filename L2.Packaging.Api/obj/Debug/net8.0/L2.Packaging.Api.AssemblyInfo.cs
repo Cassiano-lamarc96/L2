@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("L2.Packaging.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e3d9b47c64ef9608ee1f637a8d3d4e6ab46e426")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a69469b9c93ad1d587212fc3a4ac3a12fcaeaa7")]
 [assembly: System.Reflection.AssemblyProductAttribute("L2.Packaging.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("L2.Packaging.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

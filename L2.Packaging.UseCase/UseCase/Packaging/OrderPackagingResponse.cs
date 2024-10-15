@@ -9,6 +9,7 @@ public class OrderPackagingResponse
         Boxes = new List<Box>();    
     }
 
+    public int OrderId { get; set; }
     public List<Box> Boxes { get; set; }
     public List<Product> ProductsOutsideBox { get; set; }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cassiano.local\\Desktop\\personal-repository\\L2\\L2.Packaging\\L2.Packaging.Domain\\L2.Packaging.Domain.csproj": {}
+    "C:\\Users\\Cassiano.local\\Desktop\\L2\\L2.Packaging\\L2.Packaging.Domain\\L2.Packaging.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cassiano.local\\Desktop\\personal-repository\\L2\\L2.Packaging\\L2.Packaging.Domain\\L2.Packaging.Domain.csproj": {
+    "C:\\Users\\Cassiano.local\\Desktop\\L2\\L2.Packaging\\L2.Packaging.Domain\\L2.Packaging.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cassiano.local\\Desktop\\personal-repository\\L2\\L2.Packaging\\L2.Packaging.Domain\\L2.Packaging.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Cassiano.local\\Desktop\\L2\\L2.Packaging\\L2.Packaging.Domain\\L2.Packaging.Domain.csproj",
         "projectName": "L2.Packaging.Domain",
-        "projectPath": "C:\\Users\\Cassiano.local\\Desktop\\personal-repository\\L2\\L2.Packaging\\L2.Packaging.Domain\\L2.Packaging.Domain.csproj",
+        "projectPath": "C:\\Users\\Cassiano.local\\Desktop\\L2\\L2.Packaging\\L2.Packaging.Domain\\L2.Packaging.Domain.csproj",
         "packagesPath": "C:\\Users\\Cassiano.local\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cassiano.local\\Desktop\\personal-repository\\L2\\L2.Packaging\\L2.Packaging.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Cassiano.local\\Desktop\\L2\\L2.Packaging\\L2.Packaging.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Cassiano.local\\AppData\\Roaming\\NuGet\\NuGet.Config",

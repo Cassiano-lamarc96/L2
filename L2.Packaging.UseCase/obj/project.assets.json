@@ -133,11 +133,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cassiano.local\\Desktop\\personal-repository\\L2\\L2.Packaging\\L2.Packaging.UseCase\\L2.Packaging.UseCase.csproj",
+      "projectUniqueName": "C:\\Users\\Cassiano.local\\Desktop\\L2\\L2.Packaging\\L2.Packaging.UseCase\\L2.Packaging.UseCase.csproj",
       "projectName": "L2.Packaging.UseCase",
-      "projectPath": "C:\\Users\\Cassiano.local\\Desktop\\personal-repository\\L2\\L2.Packaging\\L2.Packaging.UseCase\\L2.Packaging.UseCase.csproj",
+      "projectPath": "C:\\Users\\Cassiano.local\\Desktop\\L2\\L2.Packaging\\L2.Packaging.UseCase\\L2.Packaging.UseCase.csproj",
       "packagesPath": "C:\\Users\\Cassiano.local\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cassiano.local\\Desktop\\personal-repository\\L2\\L2.Packaging\\L2.Packaging.UseCase\\obj\\",
+      "outputPath": "C:\\Users\\Cassiano.local\\Desktop\\L2\\L2.Packaging\\L2.Packaging.UseCase\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Cassiano.local\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -154,8 +154,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Cassiano.local\\Desktop\\personal-repository\\L2\\L2.Packaging\\L2.Packaging.Domain\\L2.Packaging.Domain.csproj": {
-              "projectPath": "C:\\Users\\Cassiano.local\\Desktop\\personal-repository\\L2\\L2.Packaging\\L2.Packaging.Domain\\L2.Packaging.Domain.csproj"
+            "C:\\Users\\Cassiano.local\\Desktop\\L2\\L2.Packaging\\L2.Packaging.Domain\\L2.Packaging.Domain.csproj": {
+              "projectPath": "C:\\Users\\Cassiano.local\\Desktop\\L2\\L2.Packaging\\L2.Packaging.Domain\\L2.Packaging.Domain.csproj"
             }
           }
         }

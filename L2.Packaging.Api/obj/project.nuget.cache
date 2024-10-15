@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MbqvRI448bBxoy1fZMml6KTqy0yzX9zH9Usn/5rbV8mPqtv2zmgruK9ZSTo99E1X+11Rci4FpPHcIJ6NZwWGrQ==",
+  "dgSpecHash": "0r0Ow6ZK5y+wNANASy3H0sg1tRT+oldLBTdajc1BDS5kkxTMZZPze8ewUXi/IWJZMQb4YgNVLmOhE0VKCyzf+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Cassiano.local\\Desktop\\personal-repository\\L2\\L2.Packaging\\L2.Packaging.Api\\L2.Packaging.Api.csproj",
+  "projectFilePath": "C:\\Users\\Cassiano.local\\Desktop\\L2\\L2.Packaging\\L2.Packaging.Api\\L2.Packaging.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Cassiano.local\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Cassiano.local\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.1\\microsoft.extensions.dependencyinjection.8.0.1.nupkg.sha512",

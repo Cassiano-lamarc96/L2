@@ -57,10 +57,6 @@ public class AllowedBox
 
     public decimal GetNewVolume(decimal productHeight, decimal productWidth, decimal productLength)
     {
-        var newHeight = Height - productHeight;
-        var newWidth = Width - productWidth;
-        var newLength = Length - productLength;
-
-        return newHeight * newWidth * newLength;
+        return GetRemainingSpaces(productHeight, productWidth, productLength).Sum(x => x.GetVolume());
     }
 }
